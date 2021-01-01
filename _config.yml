@@ -1,0 +1,33 @@
+# site settings
+title: Gawtam Shankaranarayana Bhat
+subtitle: Personal Webpage
+email: infinitebhat@gmail.com
+description: Currently looking for Full-Time Opportunities<br/> in Data Science, Supply Chain Management and Project Management Field.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: Bhat, Gawtam
+street_address:
+city: Gainesville
+state: FL
+zip_code: 32608
+country: United States of America
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/infinitebhat
+gitlab_url:
+googleplus_url:
+instagram_url: https://www.instagram.com/bhat_true/
+linkedin_url: https://www.linkedin.com/in/infinitebhat/
+
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
