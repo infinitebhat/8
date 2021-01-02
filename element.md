@@ -14,6 +14,7 @@ nav-menu: true
 				<h1>Resume</h1>
 			</header>
 
-	<p>Click <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1Pu7715RgWUNeNG0wYM4kOwob4gk3LhCo/view?usp=sharing">here</a> to check out the updated resume</p>
+	<p>Click <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1VS8am1Au0JR_WCdOjX2qMAmcQt-m_wJD/view?usp=sharing">here</a> to check out the updated resume</p>
 	<p> </p>
 </div>
+
