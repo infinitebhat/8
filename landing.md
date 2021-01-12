@@ -77,7 +77,8 @@ Additionally, this project examines technology industry trends as they relate to
 					b) each vehicle should visit customer only once. <br>
 <br>Additionally, this project examines technology industry trends as they relate to the recessions and explains more on 2000’s recession. Recessions had a negative impact on components of technology industries, negative growth in job creation in computer and electronic manufacturing. The tech bubble burst is a worst phase of American tech industries in early 2000s which badly affected the economy around Silicon Valley. The report examines growth in high technology and information industries and its innovations, and how it has helped in reducing overall unemployment rate, improving the overall economic conditions..<b>Tech used: Python, Exel <br> </b>
 				<ul class="actions">
-					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Regression-Analysis-of-Tech-Pulse-Index" class="button">Learn more</a></li>
+					<li><a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1rg9NNyAdHoS3y4SlN9wgNVrI8BQbZoFO/view?usp=sharing" class="button">Project Report</a></li>
+					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Vehicle-Routing-Problem" class="button">Learn more</a></li>
 				</ul>	
 </section>
 
