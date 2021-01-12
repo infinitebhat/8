@@ -27,7 +27,24 @@ Additionally, this project examines technology industry trends as they relate to
 				<ul class="actions">
 					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Regression-Analysis-of-Tech-Pulse-Index" class="button">Learn more</a></li>
 				</ul>	
-	<section>
+              <section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/genre_recog.gif" alt="" data-position="center center" height="400px"/>
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3> Classification of Audio Recordings Using Transfer Learning </h3>
+				</header>
+				<p><b> Course: Fundamentals of Machine Learning </b><br>
+				This Project was part of Machine Learning Course. We investigate the performance of 3 pretrained architectures, and finetune and optimize the best performing architecture. We utilize an ensemble of 4 finetuned CNNs following the Densenet architecture which are pretrained on the Imagenet dataset. We demonstrate that audio recording samples falling into eight emotive categories may be classified with 85.5% accuracy.
+				<p><b>Tech used: Python, Excel</b></p>
+				<p><b> Special Notes: Given first place in class of 49 for classification accuracy. </b><br>
+				<ul class="actions">
+					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Customer-Segmentation-using-RFM-Analysis" class="button">Learn more</a></li>
+				</ul>
+			</div>
+			<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/rfm.jpg" alt="" data-position="center center" height="400px"/>
 		</a>
