@@ -46,7 +46,6 @@ Additionally, this project examines technology industry trends as they relate to
 					<li><a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1in5lEkZMR20LJftS_9lG3PifmEQfJYBb/view?usp=sharing" class="button">Project Report</a></li>
 					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/" class="button">Learn more</a></li>
 				</ul>
-			</div>
 			<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/rfm.jpg" alt="" data-position="center center" height="400px"/>
@@ -80,7 +79,20 @@ Additionally, this project examines technology industry trends as they relate to
 					<li><a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1rg9NNyAdHoS3y4SlN9wgNVrI8BQbZoFO/view?usp=sharing" class="button">Project Report</a></li>
 					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Vehicle-Routing-Problem" class="button">Learn more</a></li>
 				</ul>	
-</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/sim.jpg" alt="" data-position="center center" height="400px"/>
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Airport passenger departure system simulation</h3>
+				</header>
+				<p><b> Course Project: Digital Simulation Technique </b><br>
+				A simulation of the airport passenger departure system was conducted by Arena, with a focus on four consecutive processes, including arrivals to check-in, luggage drop, security check, and departure. Several assumptions were made based on public reports and webpages regarding transportation. The objective was to optimize the allocation of at the lowest possible cost by minimizing the number of passengers who miss the flight due to delays in the airport. The optimal combination is 20 manual check-in counters and 12 security x-ray scanners at a total cost of 1775$, which reduces the total number of passengers missing the flight to zero. The difference between simulation and the real airport was discussed. <b>Software used: ARENA  <br> </b>
+				<ul class="actions">
+					<li><a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1ofhFODmFfRAZ5473s4RIYWCegbdMfXom/view?usp=sharing" class="button">Project Report</a></li>
+				</ul>	
 
 <section>
 		<a href="generic.html" class="image">
