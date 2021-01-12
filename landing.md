@@ -20,10 +20,11 @@ nav-menu: true
 				<header class="major">
 					<h3>Regression Analysis of Tech Pulse Index</h3>
 				</header>
-				<p><b> Course Project Score 98/100 </b><br>
+				<p><b> Course: Economic Data Analysis </b><br>
 				This project examines dynamics of High technology industries and its effect on economy of Silicon Valley, California, which includes overall employment rate, change in housing prices and consumer sentiment in geographical area of interest. Silicon Valley’s economy closely tied to tech industries growth which has effect on employment creation, more median income, better economic condition.
 
 Additionally, this project examines technology industry trends as they relate to the recessions and explains more on 2000’s recession. Recessions had a negative impact on components of technology industries, negative growth in job creation in computer and electronic manufacturing. The tech bubble burst is a worst phase of American tech industries in early 2000s which badly affected the economy around Silicon Valley. The report examines growth in high technology and information industries and its innovations, and how it has helped in reducing overall unemployment rate, improving the overall economic conditions..<b>Tech used: Stata, Exel <br> </b>
+<p><b> Project score: 98/100 </b><br>
 				<ul class="actions">
 					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Regression-Analysis-of-Tech-Pulse-Index" class="button">Learn more</a></li>
 				</ul>	
