@@ -13,7 +13,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/dv.gif" alt="" data-position="center center" height="400px"/>
+			<img src="assets/images/stock market.jpg" alt="" data-position="center center" height="400px"/>
 		</a>
 		<div class="content">
 			<div class="inner">
