@@ -29,7 +29,7 @@ Additionally, this project examines technology industry trends as they relate to
 					<li><a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1S_o2Zs6OklnqMV0OK5avfav66o89WKjR/view?usp=sharing" class="button">Project Report</a></li>
 					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Regression-Analysis-of-Tech-Pulse-Index" class="button">Learn more about code on github</a></li>
 				</ul>	
-</div>
+<div>
 <section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/genre_recog.gif" alt="" data-position="center center" height="400px"/>
@@ -47,7 +47,8 @@ Additionally, this project examines technology industry trends as they relate to
 					<li><a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1in5lEkZMR20LJftS_9lG3PifmEQfJYBb/view?usp=sharing" class="button">Project Report</a></li>
 					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/" class="button">Learn more</a></li>
 				</ul>
-			<section>
+</div>		
+		<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/rfm.jpg" alt="" data-position="center center" height="400px"/>
 		</a>
