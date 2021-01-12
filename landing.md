@@ -26,7 +26,8 @@ nav-menu: true
 Additionally, this project examines technology industry trends as they relate to the recessions and explains more on 2000’s recession. Recessions had a negative impact on components of technology industries, negative growth in job creation in computer and electronic manufacturing. The tech bubble burst is a worst phase of American tech industries in early 2000s which badly affected the economy around Silicon Valley. The report examines growth in high technology and information industries and its innovations, and how it has helped in reducing overall unemployment rate, improving the overall economic conditions..<b>Tech used: Stata, Exel <br> </b>
 <p><b> Project score: 98/100 </b><br>
 				<ul class="actions">
-					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Regression-Analysis-of-Tech-Pulse-Index" class="button">Learn more</a></li>
+					<li><a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1S_o2Zs6OklnqMV0OK5avfav66o89WKjR/view?usp=sharing" class="button">Project Report</a></li>
+					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Regression-Analysis-of-Tech-Pulse-Index" class="button">Learn more about code on github</a></li>
 				</ul>	
               <section>
 		<a href="generic.html" class="image">
