@@ -43,7 +43,8 @@ Additionally, this project examines technology industry trends as they relate to
 				<p><b>Tech used: Python, Excel</b></p>
 				<p><b> Special Notes: Given first place in class of 49 for classification accuracy. </b><br>
 				<ul class="actions">
-					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Customer-Segmentation-using-RFM-Analysis" class="button">Learn more</a></li>
+					<li><a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1in5lEkZMR20LJftS_9lG3PifmEQfJYBb/view?usp=sharing" class="button">Project Report</a></li>
+					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/" class="button">Learn more</a></li>
 				</ul>
 			</div>
 			<section>
