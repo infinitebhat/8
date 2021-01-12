@@ -71,9 +71,9 @@ Additionally, this project examines technology industry trends as they relate to
 				</header>
 				<p><b> Course Project: Operations Research </b><br>
 				The main aim of Vehicle routing problem is to optimize the routes of a fleet of homogeneous vehicles so as to serve all customer demand with minimum overall cost for the company. Here, vehicles should take routes such that <br>
-					a) the time and cost of operation is minimized
-					b) vehicle should visit customer once once. <br>
-Additionally, this project examines technology industry trends as they relate to the recessions and explains more on 2000’s recession. Recessions had a negative impact on components of technology industries, negative growth in job creation in computer and electronic manufacturing. The tech bubble burst is a worst phase of American tech industries in early 2000s which badly affected the economy around Silicon Valley. The report examines growth in high technology and information industries and its innovations, and how it has helped in reducing overall unemployment rate, improving the overall economic conditions..<b>Tech used: Python, Exel <br> </b>
+					a) the time and cost of operation is should be minimized.
+					b) each vehicle should visit customer only once. <br>
+<br>Additionally, this project examines technology industry trends as they relate to the recessions and explains more on 2000’s recession. Recessions had a negative impact on components of technology industries, negative growth in job creation in computer and electronic manufacturing. The tech bubble burst is a worst phase of American tech industries in early 2000s which badly affected the economy around Silicon Valley. The report examines growth in high technology and information industries and its innovations, and how it has helped in reducing overall unemployment rate, improving the overall economic conditions..<b>Tech used: Python, Exel <br> </b>
 				<ul class="actions">
 					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Regression-Analysis-of-Tech-Pulse-Index" class="button">Learn more</a></li>
 				</ul>	
