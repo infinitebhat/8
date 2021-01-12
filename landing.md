@@ -1,8 +1,8 @@
 ---
 title: Portfolio
 layout: landing
-description: 'Things that interest me, make me burn the midnight oil.<br> Check out some projects I have worked on. Most of them are in the field of Supply Chain Forecasting, Machine Learning and Data Science - areas that interest me the most.'
-image: assets/images/pic07.jpg
+description: 'Check out some projects I have worked on. Most of them are in the field of Supply Chain Forecasting, Machine Learning and Data Science - areas that interest me the most.'
+image: assets/images/ml.gif
 nav-menu: true
 ---
 
@@ -13,7 +13,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/dv.gif" alt="" data-position="center center" height="400px"/>
+			<img src="assets/images/stock market.jpg" alt="" data-position="center center" height="400px"/>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -27,7 +27,24 @@ Additionally, this project examines technology industry trends as they relate to
 				<ul class="actions">
 					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Regression-Analysis-of-Tech-Pulse-Index" class="button">Learn more</a></li>
 				</ul>	
-	<section>
+              <section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/genre_recog.gif" alt="" data-position="center center" height="400px"/>
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3> Classification of Audio Recordings Using Transfer Learning </h3>
+				</header>
+				<p><b> Course: Fundamentals of Machine Learning </b><br>
+				This Project was part of Machine Learning Course. We investigate the performance of 3 pretrained architectures, and finetune and optimize the best performing architecture. We utilize an ensemble of 4 finetuned CNNs following the Densenet architecture which are pretrained on the Imagenet dataset. We demonstrate that audio recording samples falling into eight emotive categories may be classified with 85.5% accuracy.
+				<p><b>Tech used: Python, Excel</b></p>
+				<p><b> Special Notes: Given first place in class of 49 for classification accuracy. </b><br>
+				<ul class="actions">
+					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Customer-Segmentation-using-RFM-Analysis" class="button">Learn more</a></li>
+				</ul>
+			</div>
+			<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/rfm.jpg" alt="" data-position="center center" height="400px"/>
 		</a>
@@ -42,8 +59,6 @@ Additionally, this project examines technology industry trends as they relate to
 					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Customer-Segmentation-using-RFM-Analysis" class="button">Learn more</a></li>
 				</ul>
 			</div>
-			
-</section>
 	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/vrp.png" alt="" data-position="center center" height="400px"/>
@@ -51,12 +66,13 @@ Additionally, this project examines technology industry trends as they relate to
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Vehicle Routing Problem</h3>
+					<h3>Vehicle Routing Problem with Capacity constraints</h3>
 				</header>
 				<p><b> Course Project: Operations Research </b><br>
-				The main aim of Vehicle routing problem is to optimize the routes of a fleet of homogeneous vehicles so as to serve all customer demand with minimum overall cost for the company. Here, vehicles should take routes such that a) the time and money of operation is minimized
-
-Additionally, this project examines technology industry trends as they relate to the recessions and explains more on 2000’s recession. Recessions had a negative impact on components of technology industries, negative growth in job creation in computer and electronic manufacturing. The tech bubble burst is a worst phase of American tech industries in early 2000s which badly affected the economy around Silicon Valley. The report examines growth in high technology and information industries and its innovations, and how it has helped in reducing overall unemployment rate, improving the overall economic conditions..<b>Tech used: Stata, Exel <br> </b>
+				The main aim of Vehicle routing problem is to optimize the routes of a fleet of homogeneous vehicles so as to serve all customer demand with minimum overall cost for the company. Here, vehicles should take routes such that <br>
+					a) the time and cost of operation is minimized
+					b) vehicle should visit customer once once. <br>
+Additionally, this project examines technology industry trends as they relate to the recessions and explains more on 2000’s recession. Recessions had a negative impact on components of technology industries, negative growth in job creation in computer and electronic manufacturing. The tech bubble burst is a worst phase of American tech industries in early 2000s which badly affected the economy around Silicon Valley. The report examines growth in high technology and information industries and its innovations, and how it has helped in reducing overall unemployment rate, improving the overall economic conditions..<b>Tech used: Python, Exel <br> </b>
 				<ul class="actions">
 					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Regression-Analysis-of-Tech-Pulse-Index" class="button">Learn more</a></li>
 				</ul>	
