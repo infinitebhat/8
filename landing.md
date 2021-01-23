@@ -6,12 +6,7 @@ image: assets/images/ml.gif
 nav-menu: true
 ---
 
-<!-- Main -->
-<div id="main">
-
-<!-- Two -->
-<section id="two" class="spotlights">
-	<section>
+<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/stock market.jpg" alt="" data-position="center center" height="400px"/>
 		</a>
@@ -46,8 +41,7 @@ Additionally, this project examines technology industry trends as they relate to
 				<ul class="actions">
 					<li><a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1in5lEkZMR20LJftS_9lG3PifmEQfJYBb/view?usp=sharing" class="button">Project Report</a></li>
 					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/" class="button">Learn more</a></li>
-				</ul>
-</div>		
+				</ul>		
 		<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/rfm.jpg" alt="" data-position="center center" height="400px"/>
