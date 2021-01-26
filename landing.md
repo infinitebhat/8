@@ -18,8 +18,7 @@ nav-menu: true
 				Analyzed approaches related to data preparation, analysis, and forecasting of time series, to facilitate recommending sales & marketing strategies based on trend/seasonality effects using data from Kaggle with diverse characteristics such as stationarity, seasonality, residuals, and sales data variance. Implemented and compared results using Exponential Smoothing Forecast, Auto Regressive Integrated Moving Average, Seasonal Auto Regressive Integrated Moving Average, Facebook’s Prophet, and LSTM Neural network. Tools: Python (pandas, scikit-learn, prophet, stats, math, TensorFlow, Keras). <b>Tech used: Stata, Exel <br> </b>
 <p><b> Project score: 98/100 </b><br>
 				<ul class="actions">
-					<li><a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1S_o2Zs6OklnqMV0OK5avfav66o89WKjR/view?usp=sharing" class="button">Project Report</a></li>
-					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Regression-Analysis-of-Tech-Pulse-Index" class="button">Learn more about code on github</a></li>
+					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Retail-Demand-Forecast" class="button">Notebook-Project Report</a></li>
 				</ul>	
 <section>
 		<a href="generic.html" class="image">
