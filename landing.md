@@ -20,7 +20,7 @@ nav-menu: true
 					<h3>Retail Demand Forecast</h3>
 				</header>
 				<p>
-				Analyzed approaches related to data preparation, analysis, and forecasting of time series, to facilitate recommending sales & marketing strategies based on trend/seasonality effects using data from Kaggle with diverse characteristics such as stationarity, seasonality, residuals, and sales data variance. Implemented and compared results using Exponential Smoothing Forecast, Auto Regressive Integrated Moving Average, Seasonal Auto Regressive Integrated Moving Average, Facebook’s Prophet, and LSTM Neural network. <b>Tech used: Python (pandas, scikit-learn, prophet, stats, math, TensorFlow, Keras), Exel <br> </b>
+				Analyzed approaches related to data preparation, analysis, and forecasting of time series, to facilitate recommending sales & marketing strategies based on trend/seasonality effects using data from Kaggle with diverse characteristics such as stationarity, seasonality, residuals, and sales data variance. Implemented and compared results using Exponential Smoothing Forecast, Auto Regressive Integrated Moving Average, Seasonal Auto Regressive Integrated Moving Average, Facebook’s Prophet, and LSTM Neural network. <b>Tech used: Python (pandas, scikit-learn, prophet, stats, math, TensorFlow, Keras), Exel. <br> </b>
 <p>
 				<ul class="actions">
 					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Retail-Demand-Forecast" class="button">Notebook-Project Report</a></li>
