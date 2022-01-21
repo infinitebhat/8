@@ -2,14 +2,14 @@
 title: Gawtam Shankaranarayana Bhat
 subtitle: Personal Webpage
 email: infinitebhat@gmail.com
-description: Currently looking for Full-Time Opportunities<br/> in Data Science, Supply Chain Management and Project Management Field.
+description: Currently pursuing Ph.D. in Business Administration at the University of Connecticut School of Business, Storrs, United States.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Bhat, Gawtam
 street_address:
-city: Gainesville
-state: FL
-zip_code: 32608
+city: Storrs
+state: CT
+zip_code: 06269
 country: United States of America
 
 # homepage tiles
