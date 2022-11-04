@@ -6,7 +6,7 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-My name is Gawtam S. Bhat. I am a graduate of Industrial and Systems Engineering from the University of Florida. Currently pursuing Ph.D. in Business Administration in the School of Business, University of Connecticut. 
+My name is Gawtam S. Bhat. I am a graduate of Industrial Engineering from the University of Florida. Currently pursuing masters degree in Business Administration in the School of Business, University of Connecticut. 
 
 My belief-"Change is the only constant in any Industry and if we need growth-we need to be agile and flexible to adopt new changes".
 
@@ -27,7 +27,7 @@ This website is a medium for me to share my projects, experiences and learning t
 Be happy and have a smile on your face for your great health.
 
 <br>
-<a href="https://www.facebook.com/bhat.rue/"> Facebook account </a> 
+<a href="https://www.facebook.com/gb_gawtambhat/"> Facebook account </a> 
 <a href="https://www.linkedin.com/in/gsbhat/"> LinkedIn Profile </a>
-<a href="https://www.instagram.com/bhat_true/"> Instagram Profile </a>
+<a href="https://www.instagram.com/gb_gawtambhat/"> Instagram Profile </a>
 
