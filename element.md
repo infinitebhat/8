@@ -13,7 +13,7 @@ nav-menu: true
 			<header class="major">
 				<h1>Resume</h1>
 			</header>
-	<p>Click <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1L4QpdczdI-9JRpB3n1IMXuJ1eLPW--1a/view?usp=sharing">here</a> to check out the updated resume</p>
+	<p>Click <a target="_blank" rel="noopener noreferrer" href="--put link here--">here</a> to check out the updated resume</p>
 	<p> </p>
 </div>
 
