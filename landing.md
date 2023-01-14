@@ -7,8 +7,6 @@ nav-menu: true
 ---
 Check out some projects I have worked on. Most of them are in the field of Supply Chain Forecasting, Machine Learning and Data Science - areas that interest me the most. This code is written in HTML and CSS:
 <div id="main">
-
-<div id="main">
   <section id="one" class="spotlights">
     <section>
       <a href="#" class="image">
@@ -50,24 +48,3 @@ Check out some projects I have worked on. Most of them are in the field of Suppl
           <ul class="actions">
             <li>
               <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1S_o2Zs6Oklnq
-
-<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/vrp.png" alt="" data-position="center center" height="400px"/>
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Vehicle Routing Problem with Capacity constraints</h3>
-				</header>
-				</p><b> Course Project: Operations Research</b><br>
-				The main aim of Vehicle routing problem is to optimize the routes of a fleet of homogeneous vehicles so as to serve all customer demand with minimum overall cost for the company. Here, vehicles should take routes such that <br>
-					a) the time and cost of operation is should be minimized.
-					b) each vehicle should visit customer only once.
-                   <b>Tech used: Python, Exel <br> </b>
-<p><b> Project score: 90/100 </b><br>
-				<ul class="actions">
-					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Vehicle-Routing-Problem" 
-                    class="button">Learn more about code on github</a></li>
-				</ul>	
-<div> </section>
