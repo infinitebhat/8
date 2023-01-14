@@ -25,7 +25,8 @@ nav-menu: true
 				<ul class="actions">
 					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Retail-Demand-Forecast" class="button">Notebook-Project Report</a></li>
 				</ul>	
-			<section>
+	</section>			
+	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/stock market.jpg" alt="" data-position="center center" height="400px"/>
 		</a>
