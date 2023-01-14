@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 layout: landing
-description: 'Check out some projects I have worked on. Most of them are in the field of Supply Chain Forecasting, Machine Learning and Data Science - areas that interest me the most.'
+description: 'Check out some projects I have worked on. Most of them are in the field of Supply Chain Forecasting, Machine Learning and Data Science - areas that interest me the most.  This code is written in HTML and CSS and it creates a web page with a portfolio section. The code starts by creating a main container called "main", and within that, there's a section called "one" with class "spotlights". Inside this section, there are two sub-sections, each containing an image, a title, and some description of a project, followed by a link to view the project report or the code on Github.'
 image: assets/images/ml.gif
 nav-menu: true
 ---
