@@ -47,4 +47,6 @@ Check out some projects I have worked on. Most of them are in the field of Suppl
           </p>
           <ul class="actions">
             <li>
-              <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1S_o2Zs6Oklnq
+              <a> target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1S_o2Zs6Oklnq </a>
+                                                                 
+                                                     
