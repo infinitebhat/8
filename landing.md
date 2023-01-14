@@ -115,4 +115,5 @@ Additionally, this project examines technology industry trends as they relate to
 		</a>
 		<div class="content">
 			<div class="inner">
-</div>
+			</div>
+</section>
