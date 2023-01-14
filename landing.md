@@ -1,7 +1,10 @@
 ---
 title: Portfolio
 layout: landing
-description: 'Check out some projects I have worked on. Most of them are in the field of Supply Chain Forecasting, Machine Learning and Data Science - areas that interest me the most.'
+description: 'Check out some projects I have worked on. Most of them are in the field of Supply Chain Forecasting, Machine Learning and Data Science - areas that interest me the most.
+
+This code is written in HTML and CSS and it creates a web page with a portfolio section. The code starts by creating a main container called "main", and within that, there's a section called "one" with class "spotlights". Inside this section, there are two sub-sections, each containing an image, a title, and some description of a project, followed by a link to view the project report or the code on Github. The first section describes a project on retail demand forecast, and the second section describes a project on regression analysis of tech pulse index. Each section also contains a button that links to the project report or the Github repository. The third section describes a project on Classification of Audio Recordings Using Transfer Learning.'
+
 image: assets/images/ml.gif
 nav-menu: true
 ---
@@ -26,7 +29,7 @@ nav-menu: true
 					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Retail-Demand-Forecast" class="button">Notebook-Project Report</a></li>
 				</ul>	
 	</section>			
-	<section>
+<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/stock market.jpg" alt="" data-position="center center" height="400px"/>
 		</a>
