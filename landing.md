@@ -5,8 +5,9 @@ description: 'Check out some projects I have worked on. Most of them are in the 
 image: assets/images/ml.gif
 nav-menu: true
 ---
-<!-- Main -->
+Check out some projects I have worked on. Most of them are in the field of Supply Chain Forecasting, Machine Learning and Data Science - areas that interest me the most. This code is written in HTML and CSS:
 <div id="main">
+
 <!-- Two -->
 <section id="one" class="spotlights">
 	<section>
@@ -25,6 +26,7 @@ nav-menu: true
 					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Retail-Demand-Forecast" class="button">Notebook-Project Report</a></li>
 				</ul>	
 	</section>			
+
 <section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/stock market.jpg" alt="" data-position="center center" height="400px"/>
@@ -43,10 +45,8 @@ Additionally, this project examines technology industry trends as they relate to
 					<li><a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1S_o2Zs6OklnqMV0OK5avfav66o89WKjR/view?usp=sharing" class="button">Project Report</a></li>
 					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Regression-Analysis-of-Tech-Pulse-Index" class="button">Learn more about code on github</a></li>
 				</ul>	
-<div>
-</section>
+<div> </section>
 
-------
 <section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/vrp.png" alt="" data-position="center center" height="400px"/>
@@ -66,7 +66,4 @@ Additionally, this project examines technology industry trends as they relate to
 					<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Vehicle-Routing-Problem" 
                     class="button">Learn more about code on github</a></li>
 				</ul>	
-<div>
-</section>
-
------
+<div> </section>
