@@ -30,7 +30,7 @@ Check out some projects I have worked on. Most of them are in the field of Suppl
     </section>
     <section>
       <a href="#" class="image">
-        <img src="assets/images/stock market.jpg" alt="Regression Analysis of Tech Pulse Index" data-position="center center" height="400px"/>
+        <img src="assets/images/stock market.jpg" alt="Regression Analysis of Tech Pulse Index" data-position="center left" height="400px"/>
       </a>
       <div class="content">
         <div class="inner">
