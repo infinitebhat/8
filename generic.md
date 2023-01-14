@@ -33,7 +33,7 @@ This website allows me to share my projects, experiences and learning through my
 Be happy and have a smile on your face for your excellent health.
 
 Thank you for visiting my page,
-- Gawtam Bhat
+Gawtam Bhat
 
 <br>
 <a href="https://www.facebook.com/gb_gawtambhat/"> Facebook account </a> 
