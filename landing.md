@@ -58,19 +58,19 @@ Check out some projects I have worked on. Most of them are in the field of Suppl
   <section id="one" class="spotlights">
     <section>
       <a href="#" class="image">
-        <img src="assets/images/forecast.png" alt="Retail Demand Forecast" data-position="center center" height="400px"/>
+        <img src="assets/images/vrp.png" alt="Vehicle Routing Problem" data-position="center center" height="400px"/>
       </a>
       <div class="content">
         <div class="inner">
           <header class="major">
-            <h3>Retail Demand Forecast</h3>
+            <h3>Vehicle Routing Problem</h3>
           </header>
           <p>
-            Analyzed approaches related to data preparation, analysis, and forecasting of time series, to facilitate recommending sales & marketing strategies based on trend/seasonality effects using data from Kaggle with diverse characteristics such as stationarity, seasonality, residuals, and sales data variance. Implemented and compared results using Exponential Smoothing Forecast, Auto Regressive Integrated Moving Average, Seasonal Auto Regressive Integrated Moving Average, Facebook’s Prophet, and LSTM Neural network. <b>Tech used: Python (pandas, scikit-learn, prophet, stats, math, TensorFlow, Keras), Exel.</b>
+            This was the course project 'Vehicle Routing Optimization with Capacity and Time Window constraints' for the Operations Research course at the University of Florida. I implemented optimization algorithms to model and solve supply chain vehicle routing problems and saved total cost by 17% and reduced total number of trucks purchased to 16 from 25, thus optimizing investment. Approximate cost savings were 900,000 dollars. <b>Tech used: Python (pandas, scikit-learn, prophet, stats, math, TensorFlow, Keras), Exel.</b>
           </p>
           <ul class="actions">
             <li>
-              <a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Retail-Demand-Forecast" class="button">Notebook-Project Report</a>
+              <a target="_blank" rel="noopener noreferrer" href="https://github.com/infinitebhat/Vehicle-Routing-Problem" class="button">Notebook-Project Report</a>
             </li>
           </ul>
         </div>
